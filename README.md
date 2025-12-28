@@ -1,0 +1,1 @@
+# Testov-n-a-volba-postupu-mal-porovn-n-algoritm-v-JavaScript
